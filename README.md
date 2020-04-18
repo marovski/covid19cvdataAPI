@@ -8,6 +8,7 @@ There are two main file:
 * server.R: this uses the plumber annotations to generate web API endpoints, the starts a local webserver.
 - covidAPI.R: uses functions in R as the logic for the RESTful API.
 + data.R: loads the necessary covid19 Cabo Verde data.
+- dockerfile : this contains the necessary settings to build the container with our API in it.
 
 # Tech Stack
 
