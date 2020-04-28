@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588093364754.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1115393704",
+    "id" : "D2337BFE",
+    "lastKnownWriteTime" : 1588098497,
+    "last_content_update" : 1588098497654,
+    "path" : "~/Desktop/ProjetosP/covid19CV/R/APIcovidcvdata/covidcvdataAPI/covidAPI.R",
+    "project_path" : "covidAPI.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "69"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
